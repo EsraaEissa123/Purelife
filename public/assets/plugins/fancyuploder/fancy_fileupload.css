@@ -385,7 +385,7 @@
 	.ff_fileupload_wrap table.ff_fileupload_uploads td.ff_fileupload_preview .ff_fileupload_preview_image {
 		width: 36px;
 		height: 36px;
-		font-size: 11px;
+		font-size: 20px;
 	}
 	.ff_fileupload_wrap table.ff_fileupload_uploads td.ff_fileupload_summary {
 		padding-right: 0;

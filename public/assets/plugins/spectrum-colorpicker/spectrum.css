@@ -458,7 +458,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
     box-shadow: inset 0 0 5px 2px #aaaaaa, 0 1px 0 0 #eeeeee;
 }
 .sp-cancel {
-    font-size: 11px;
+    font-size: 20px;
     color: #d93f3f !important;
     margin:0;
     padding:2px;

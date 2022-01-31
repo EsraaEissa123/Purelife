@@ -25,7 +25,7 @@ table.dataTable {
 
     .sorting_asc::after, .sorting_desc::after {
       font-family: 'Ionicons';
-      font-size: 11px;
+      font-size: 20px;
       position: absolute;
       line-height: 0;
       top: 50%;
@@ -46,7 +46,7 @@ table.dataTable {
 
       &::before, &::after {
         font-family: 'Ionicons';
-        font-size: 11px;
+        font-size: 20px;
         position: absolute;
         line-height: 0;
         right: 10px;

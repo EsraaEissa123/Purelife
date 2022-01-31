@@ -701,7 +701,7 @@ slide is-expanded side-menu__item {
 
 .app-sidebar .side-item.side-item-category {
   color: #2c364c;
-  font-size: 11px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: .5px;
@@ -896,7 +896,7 @@ slide is-expanded side-menu__item {
     top: 8px;
     right: 28px;
     padding: 0.2rem 0.4rem;
-    font-size: 11px;
+    font-size: 20px;
   }
 }
 
@@ -1121,7 +1121,7 @@ slide is-expanded side-menu__item {
 }
 
 .side-menu h3 {
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 400;
   letter-spacing: 1px;
   opacity: 1;

@@ -3793,7 +3793,7 @@ a.badge-dark.focus {
 }
 
 .breadcrumb-style1 .breadcrumb-item, .breadcrumb-style2 .breadcrumb-item, .breadcrumb-style3 .breadcrumb-item {
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   letter-spacing: .5px;
@@ -8749,7 +8749,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
 
 .main-nav-column .nav-link span {
   font-weight: 400;
-  font-size: 11px;
+  font-size: 20px;
   color: #949eb7;
   margin-left: auto;
 }
@@ -9032,7 +9032,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
   right: 25px;
   top: 18px;
   margin-left: auto;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .nav-wrapper.crypto .label {
@@ -9640,7 +9640,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
 .progress-bar {
   border-radius: 0;
   height: 10px;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .progress-bar-xs {
@@ -9716,7 +9716,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
 .table thead th, .table thead td {
   color: #37374e;
   font-weight: 700;
-  font-size: 11px;
+  font-size: 20px;
   letter-spacing: .5px;
   text-transform: uppercase;
   border-bottom-width: 1px;
@@ -12538,7 +12538,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
 .main-navbar .nav-link.with-sub::after {
   content: '\f3d0';
   font-family: 'Ionicons';
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 400;
   display: inline-block;
   position: relative;
@@ -12623,7 +12623,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
 .main-navbar .nav-sub-link.with-sub::after {
   content: '\f3d0';
   font-family: 'Ionicons';
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 400;
   display: inline-block;
   position: relative;
@@ -14582,7 +14582,7 @@ a.tag-addon:hover {
 }
 
 .coming-events .icon .month {
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .coming-events .pb-3 {
@@ -15182,7 +15182,7 @@ body {
 .main-table-reference > thead > tr > th, .main-table-reference > thead > tr > td {
   background-color: #ecf0fa;
   color: #737f9e;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -15425,7 +15425,7 @@ body {
       -ms-flex: 1;
           flex: 1;
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   min-height: inherit;
   letter-spacing: 1px;
@@ -15471,7 +15471,7 @@ body {
       -ms-flex: 1;
           flex: 1;
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   min-height: inherit;
   letter-spacing: 1px;
@@ -16152,7 +16152,7 @@ body {
 }
 
 .main-message-list a .time {
-  font-size: 11px;
+  font-size: 20px;
   color: #8d8db3;
   font-weight: 400;
 }
@@ -17023,13 +17023,13 @@ body {
 .crypto .card-footer .nav-link span:first-child {
   color: #949eb7;
   font-weight: 700;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .crypto .card-footer .nav-link span:last-child {
   color: #031b4e;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
@@ -18526,13 +18526,13 @@ pre {
   text-shadow: 1px 1px rgba(255, 255, 255, 0.75);
   color: #031b4e;
   font-weight: 700;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card-dashboard-one .card-body .flot-chart .flot-x-axis > div {
   color: #97a3b9;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card-dashboard-one .card-body-top {
@@ -18726,7 +18726,7 @@ pre {
 }
 
 .card-dashboard-three .card-header > small {
-  font-size: 11px;
+  font-size: 20px;
   display: none;
   color: #7987a1;
 }
@@ -19194,7 +19194,7 @@ pre {
   margin-bottom: 0;
   display: block;
   line-height: 1;
-  font-size: 11px;
+  font-size: 20px;
   color: #97a3b9;
 }
 
@@ -19406,7 +19406,7 @@ pre {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
 }
 
@@ -19904,7 +19904,7 @@ pre {
 
 .card-dashboard-eleven .card-footer h6 span {
   margin-left: 5px;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   display: block;
   padding: 4px 6px;
@@ -20290,7 +20290,7 @@ pre {
 }
 
 .card-dashboard-twelve .sales-overview p {
-  font-size: 11px;
+  font-size: 20px;
   margin-bottom: 0;
   color: #97a3b9;
 }
@@ -20358,7 +20358,7 @@ pre {
 
 @media (min-width: 576px) {
   .card-dashboard-twelve .sales-overview .media-body > span {
-    font-size: 11px;
+    font-size: 20px;
   }
 }
 
@@ -20612,7 +20612,7 @@ pre {
 }
 
 .card-dashboard-events .list-group-item small {
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card-dashboard-events .list-group-item small span {
@@ -20660,7 +20660,7 @@ pre {
   margin-left: 10px;
   color: #7987a1;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card-dashboard-events .event-user a:last-child:hover, .card-dashboard-events .event-user a:last-child:focus {
@@ -20735,7 +20735,7 @@ pre {
 }
 
 .card-dashboard-fourteen .card-body small {
-  font-size: 11px;
+  font-size: 20px;
   color: #97a3b9;
 }
 
@@ -20763,7 +20763,7 @@ pre {
   display: block;
   margin-bottom: 0;
   color: #97a3b9;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 @media (min-width: 576px) {
@@ -21220,10 +21220,10 @@ pre {
 
 @media (min-width: 576px) {
   .card-dashboard-balance .main-content-label, .card-dashboard-balance .card-table-two .card-title {
-    font-size: 11px;
+    font-size: 20px;
   }
   .card-table-two .card-dashboard-balance .card-title, .card-dashboard-balance .card-dashboard-eight .card-title, .card-dashboard-eight .card-dashboard-balance .card-title {
-    font-size: 11px;
+    font-size: 20px;
   }
 }
 
@@ -21859,7 +21859,7 @@ pre {
 
 .card-minimal-two .card-header-right .nav-link span:last-child {
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
 }
 
@@ -22055,7 +22055,7 @@ pre {
   margin-bottom: 2px;
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   letter-spacing: .5px;
   color: #7987a1;
 }
@@ -22455,13 +22455,13 @@ pre {
 .card-minimal-four .card-footer .nav-link span:first-child {
   color: #97a3b9;
   font-weight: 700;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card-minimal-four .card-footer .nav-link span:last-child {
   color: #031b4e;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
@@ -22765,7 +22765,7 @@ pre {
 }
 
 .card-dashboard-seventeen .card-body span {
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card-dashboard-seventeen .card-title {
@@ -22955,7 +22955,7 @@ pre {
 }
 
 .card-dashboard-nineteen .card-header p {
-  font-size: 11px;
+  font-size: 20px;
   color: #7987a1;
   margin-bottom: 0;
 }
@@ -22963,7 +22963,7 @@ pre {
 .card-dashboard-nineteen .card-header .btn, .card-dashboard-nineteen .card-header .sp-container button {
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   letter-spacing: .5px;
   padding: 5px 20px;
   min-height: inherit;
@@ -22979,7 +22979,7 @@ pre {
 .sp-container .card-dashboard-nineteen .card-header button {
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   letter-spacing: .5px;
   padding: 5px 20px;
   min-height: inherit;
@@ -23176,7 +23176,7 @@ pre {
 
 .card-dashboard-twenty .expansion-label span {
   font-weight: 400;
-  font-size: 11px;
+  font-size: 20px;
   color: #97a3b9;
 }
 
@@ -23794,7 +23794,7 @@ pre {
 
 .card-dashboard-twentytwo .media-body > small {
   display: block;
-  font-size: 11px;
+  font-size: 20px;
   color: #97a3b9;
 }
 
@@ -23970,7 +23970,7 @@ pre {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card-dashboard-audience-metrics .card-body label span {
@@ -24073,7 +24073,7 @@ pre {
   display: block;
   margin-bottom: 0;
   color: #7987a1;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card-dashboard-twentyfour .card-body-top > div + div {
@@ -24165,7 +24165,7 @@ pre {
 .card-dashboard-twentyfive .card-label {
   display: block;
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   letter-spacing: .5px;
   margin-bottom: 2px;
@@ -24386,7 +24386,7 @@ pre {
 .main-star-group span:last-child {
   display: block;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   margin-left: 5px;
   color: #7987a1;
 }
@@ -24441,12 +24441,12 @@ pre {
 
 .main-media-list-activity .media-body span {
   display: block;
-  font-size: 11px;
+  font-size: 20px;
   color: #97a3b9;
 }
 
 .main-media-list-activity .media-right {
-  font-size: 11px;
+  font-size: 20px;
   color: #97a3b9;
 }
 
@@ -25891,7 +25891,7 @@ pre {
 
 @media (max-width: 380px) {
   .main-footer .container-fluid {
-    font-size: 11px;
+    font-size: 20px;
   }
 }
 
@@ -26592,7 +26592,7 @@ pre {
 .main-header-right .btn-buy {
   text-transform: uppercase;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   background-color: #0162e8;
   color: #fff;
@@ -26813,7 +26813,7 @@ pre {
 
 .main-notification-list .media-body span {
   display: block;
-  font-size: 11px;
+  font-size: 20px;
   color: #949eb7;
 }
 
@@ -28921,7 +28921,7 @@ object, embed, video {
 
 .mega-menubg.hor-mega-menu h3 {
   color: #2c364c;
-  font-size: 11px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: .5px;
@@ -29297,7 +29297,7 @@ object, embed, video {
 .main-iconbar-body .nav-link.with-sub::after {
   content: '\f3d0';
   font-family: 'Ionicons';
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 400;
   display: inline-block;
   position: relative;
@@ -29738,7 +29738,7 @@ object, embed, video {
 .main-content-choose-demo .card figcaption .btn, .main-content-choose-demo .card figcaption .sp-container button {
   text-transform: uppercase;
   letter-spacing: 1.5px;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   min-height: inherit;
   padding: 10px 20px;
@@ -29765,7 +29765,7 @@ object, embed, video {
 
 @media (min-width: 768px) {
   .main-content-choose-demo .title-label {
-    font-size: 11px;
+    font-size: 20px;
   }
 }
 
@@ -29829,7 +29829,7 @@ object, embed, video {
 .sp-container .main-content-choose-demo .card figcaption button {
   text-transform: uppercase;
   letter-spacing: 1.5px;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   min-height: inherit;
   padding: 10px 20px;
@@ -30180,7 +30180,7 @@ object, embed, video {
 }
 
 .main-traffic-detail-item > div:first-child > span:last-child {
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 700;
   color: #242f48;
 }
@@ -31727,7 +31727,7 @@ table.dataTable thead .sorting_asc, table.dataTable thead .sorting_desc {
 
 table.dataTable thead .sorting_asc::after, table.dataTable thead .sorting_desc::after {
   font-family: 'Ionicons';
-  font-size: 11px;
+  font-size: 20px;
   position: absolute;
   line-height: 0;
   top: 50%;
@@ -31749,7 +31749,7 @@ table.dataTable thead .sorting {
 
 table.dataTable thead .sorting::before, table.dataTable thead .sorting::after {
   font-family: 'Ionicons';
-  font-size: 11px;
+  font-size: 20px;
   position: absolute;
   line-height: 0;
   right: 10px;
@@ -32251,7 +32251,7 @@ table.dataTable tfoot th, table.dataTable tfoot td {
   text-transform: uppercase;
   color: #4d5875;
   font-weight: 700;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 /* jQuery Simple Datetimepicker */
@@ -32343,7 +32343,7 @@ table.dataTable tfoot th, table.dataTable tfoot td {
 }
 
 .main-datetimepicker > .datepicker_inner_container > .datepicker_calendar th {
-  font-size: 11px;
+  font-size: 20px;
   text-transform: uppercase;
   color: #242f48;
   font-weight: 700;
@@ -34165,7 +34165,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 }
 
 .card--events .list-group-item small {
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card--events .list-group-item small span {
@@ -34209,7 +34209,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
   margin-left: 10px;
   color: #a5a0b1;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .card--events .event-user a:last-child:hover, .card--events .event-user a:last-child:focus {
@@ -34390,7 +34390,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 .main-datepicker .ui-datepicker .ui-datepicker-calendar td span, .main-datepicker .ui-datepicker .ui-datepicker-calendar td a {
   padding: 4px 5px;
   font-family: Verdana, sans-serif;
-  font-size: 11px;
+  font-size: 20px;
   color: #4d5875;
 }
 
@@ -34551,7 +34551,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 }
 
 .main-calendar .fc-head-container .fc-day-header {
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 700;
   text-transform: uppercase;
   padding: 14px 0;
@@ -34662,7 +34662,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 
 .main-calendar .fc-view.fc-listMonth-view .fc-list-heading-main, .main-calendar .fc-view.fc-listWeek-view .fc-list-heading-main {
   display: block;
-  font-size: 11px;
+  font-size: 20px;
   text-transform: uppercase;
   color: #737f9e;
   font-weight: 600;
@@ -34783,7 +34783,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 }
 
 .main-calendar .fc-axis {
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .main-calendar .fc-event {
@@ -34832,7 +34832,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 }
 
 .main-calendar .fc-agendaWeek-view .fc-time-grid-event > div .fc-time {
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .main-calendar .fc-agendaWeek-view .fc-time-grid-event > div .fc-title {
@@ -34908,7 +34908,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     height: 32px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 11px;
+    font-size: 20px;
   }
   .main-calendar .fc-header-toolbar button.fc-month-button, .main-calendar .fc-header-toolbar button.fc-agendaWeek-button, .main-calendar .fc-header-toolbar button.fc-agendaDay-button, .main-calendar .fc-header-toolbar button.fc-listWeek-button, .main-calendar .fc-header-toolbar button.fc-listMonth-button {
     text-indent: -9999px;
@@ -34982,7 +34982,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 
 @media (min-width: 576px) {
   .main-calendar .fc-view.fc-agenda-view .fc-day-header > a > span:first-child {
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 600;
   }
 }
@@ -35479,7 +35479,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 }
 
 .main-chat-contacts small {
-  font-size: 11px;
+  font-size: 20px;
   width: 36px;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -35657,7 +35657,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 
 .main-chat-list .media-contact-name span:last-child {
   display: block;
-  font-size: 11px;
+  font-size: 20px;
   color: #949eb7;
 }
 
@@ -35804,7 +35804,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 }
 
 .main-chat-body .media-body > div:last-child {
-  font-size: 11px;
+  font-size: 20px;
   color: #737f9e;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -37478,7 +37478,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 
 .main-invoice-list .media-body p {
   margin-bottom: 0;
-  font-size: 11px;
+  font-size: 20px;
   font-family: Arial, sans-serif;
   color: #364261;
 }
@@ -37609,7 +37609,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 }
 
 .table-invoice thead > tr > th, .table-invoice thead > tr > td {
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 700;
   color: #737f9e;
 }
@@ -37658,7 +37658,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
   margin-bottom: 20px;
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   padding: 0 20px;
   letter-spacing: 2px;
   display: -webkit-box;
@@ -38133,7 +38133,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 }
 
 .main-mail-date {
-  font-size: 11px;
+  font-size: 20px;
   position: absolute;
   top: 12px;
   right: 15px;
@@ -66951,7 +66951,7 @@ button.bg-dark:hover, button.bg-dark:focus {
 }
 
 .tx-11 {
-  font-size: 11px;
+  font-size: 20px;
 }
 
 .tx-11-f {
@@ -67526,7 +67526,7 @@ button.bg-dark:hover, button.bg-dark:focus {
     font-size: 10px !important;
   }
   .tx-xs-11 {
-    font-size: 11px;
+    font-size: 20px;
   }
   .tx-xs-11-f {
     font-size: 11px !important;
@@ -68045,7 +68045,7 @@ button.bg-dark:hover, button.bg-dark:focus {
     font-size: 10px !important;
   }
   .tx-sm-11 {
-    font-size: 11px;
+    font-size: 20px;
   }
   .tx-sm-11-f {
     font-size: 11px !important;
@@ -68564,7 +68564,7 @@ button.bg-dark:hover, button.bg-dark:focus {
     font-size: 10px !important;
   }
   .tx-md-11 {
-    font-size: 11px;
+    font-size: 20px;
   }
   .tx-md-11-f {
     font-size: 11px !important;
@@ -69083,7 +69083,7 @@ button.bg-dark:hover, button.bg-dark:focus {
     font-size: 10px !important;
   }
   .tx-lg-11 {
-    font-size: 11px;
+    font-size: 20px;
   }
   .tx-lg-11-f {
     font-size: 11px !important;
@@ -69602,7 +69602,7 @@ button.bg-dark:hover, button.bg-dark:focus {
     font-size: 10px !important;
   }
   .tx-xl-11 {
-    font-size: 11px;
+    font-size: 20px;
   }
   .tx-xl-11-f {
     font-size: 11px !important;

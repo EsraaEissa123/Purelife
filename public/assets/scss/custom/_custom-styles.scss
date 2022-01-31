@@ -426,7 +426,7 @@ body {
       th, td {
         background-color: $gray-100;
         color: $gray-600;
-        font-size: 11px;
+        font-size: 20px;
         font-weight: 500;
         text-transform: uppercase;
         letter-spacing: 1px;
@@ -655,7 +655,7 @@ body {
       .btn, .sp-container button {
         flex: 1;
         text-transform: uppercase;
-        font-size: 11px;
+        font-size: 20px;
         font-weight: 500;
         min-height: inherit;
         letter-spacing: 1px;
@@ -702,7 +702,7 @@ body {
 .sp-container .main-home-content p:last-of-type button {
   flex: 1;
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   min-height: inherit;
   letter-spacing: 1px;
@@ -1384,7 +1384,7 @@ body {
   }
 
   .time {
-    font-size: 11px;
+    font-size: 20px;
     color: #8d8db3;
     font-weight: 400;
   }
@@ -2200,13 +2200,13 @@ body {
         &:first-child {
           color: $gray-500;
           font-weight: 700;
-          font-size: 11px;
+          font-size: 20px;
         }
 
         &:last-child {
           color: $default-color;
           font-weight: 500;
-          font-size: 11px;
+          font-size: 20px;
           font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
         }
       }
@@ -3701,13 +3701,13 @@ pre {
         text-shadow: 1px 1px rgba(255, 255, 255, 0.75);
         color: $default-color;
         font-weight: 700;
-        font-size: 11px;
+        font-size: 20px;
       }
 
       .flot-x-axis > div {
         color: #97a3b9;
         font-weight: 500;
-        font-size: 11px;
+        font-size: 20px;
       }
     }
   }
@@ -3887,7 +3887,7 @@ pre {
     }
 
     > small {
-      font-size: 11px;
+      font-size: 20px;
       display: none;
       color: #7987a1;
     }
@@ -4353,7 +4353,7 @@ pre {
       margin-bottom: 0;
       display: block;
       line-height: 1;
-      font-size: 11px;
+      font-size: 20px;
       color: #97a3b9;
     }
 
@@ -4548,7 +4548,7 @@ pre {
   > div {
     display: flex;
     align-items: center;
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 500;
 
     + div {
@@ -5030,7 +5030,7 @@ pre {
 
       span {
         margin-left: 5px;
-        font-size: 11px;
+        font-size: 20px;
         font-weight: 500;
         display: block;
         padding: 4px 6px;
@@ -5384,7 +5384,7 @@ pre {
     }
 
     p {
-      font-size: 11px;
+      font-size: 20px;
       margin-bottom: 0;
       color: #97a3b9;
     }
@@ -5450,7 +5450,7 @@ pre {
 
 @media (min-width: 576px) {
   .card-dashboard-twelve .sales-overview .media-body > span {
-    font-size: 11px;
+    font-size: 20px;
   }
 }
 
@@ -5695,7 +5695,7 @@ pre {
     }
 
     small {
-      font-size: 11px;
+      font-size: 20px;
 
       span {
         font-weight: 700;
@@ -5742,7 +5742,7 @@ pre {
     margin-left: 10px;
     color: #7987a1;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 20px;
 
     &:hover, &:focus {
       color: #596882;
@@ -5819,7 +5819,7 @@ pre {
     }
 
     small {
-      font-size: 11px;
+      font-size: 20px;
       color: #97a3b9;
     }
   }
@@ -5847,7 +5847,7 @@ pre {
       display: block;
       margin-bottom: 0;
       color: #97a3b9;
-      font-size: 11px;
+      font-size: 20px;
     }
   }
 }
@@ -6302,12 +6302,12 @@ pre {
 @media (min-width: 576px) {
   .card-dashboard-balance {
     .main-content-label, .card-table-two .card-title {
-      font-size: 11px;
+      font-size: 20px;
     }
   }
 
   .card-table-two .card-dashboard-balance .card-title, .card-dashboard-balance .card-dashboard-eight .card-title, .card-dashboard-eight .card-dashboard-balance .card-title {
-    font-size: 11px;
+    font-size: 20px;
   }
 }
 
@@ -6885,7 +6885,7 @@ pre {
 
         &:last-child {
           text-transform: uppercase;
-          font-size: 11px;
+          font-size: 20px;
           font-weight: 500;
         }
       }
@@ -7078,7 +7078,7 @@ pre {
     margin-bottom: 2px;
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 20px;
     letter-spacing: .5px;
     color: #7987a1;
   }
@@ -7454,13 +7454,13 @@ pre {
         &:first-child {
           color: #97a3b9;
           font-weight: 700;
-          font-size: 11px;
+          font-size: 20px;
         }
 
         &:last-child {
           color: $default-color;
           font-weight: 500;
-          font-size: 11px;
+          font-size: 20px;
           font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
         }
       }
@@ -7765,7 +7765,7 @@ pre {
     }
 
     span {
-      font-size: 11px;
+      font-size: 20px;
     }
   }
 
@@ -7957,7 +7957,7 @@ pre {
 
 .card-dashboard-nineteen .card-header {
   p {
-    font-size: 11px;
+    font-size: 20px;
     color: #7987a1;
     margin-bottom: 0;
   }
@@ -7965,7 +7965,7 @@ pre {
   .btn, .sp-container button {
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 20px;
     letter-spacing: .5px;
     padding: 5px 20px;
     min-height: inherit;
@@ -7982,7 +7982,7 @@ pre {
 .sp-container .card-dashboard-nineteen .card-header button {
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   letter-spacing: .5px;
   padding: 5px 20px;
   min-height: inherit;
@@ -8162,7 +8162,7 @@ pre {
 
     span {
       font-weight: 400;
-      font-size: 11px;
+      font-size: 20px;
       color: #97a3b9;
     }
   }
@@ -8756,7 +8756,7 @@ pre {
 
       small {
         display: block;
-        font-size: 11px;
+        font-size: 20px;
         color: #97a3b9;
 
         strong {
@@ -8924,7 +8924,7 @@ pre {
       margin-bottom: 0;
       display: flex;
       align-items: center;
-      font-size: 11px;
+      font-size: 20px;
 
       span {
         display: inline-block;
@@ -9022,7 +9022,7 @@ pre {
       display: block;
       margin-bottom: 0;
       color: #7987a1;
-      font-size: 11px;
+      font-size: 20px;
     }
 
     > div + div {
@@ -9112,7 +9112,7 @@ pre {
   .card-label {
     display: block;
     text-transform: uppercase;
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 500;
     letter-spacing: .5px;
     margin-bottom: 2px;
@@ -9319,7 +9319,7 @@ pre {
   span:last-child {
     display: block;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 20px;
     margin-left: 5px;
     color: #7987a1;
   }
@@ -9369,13 +9369,13 @@ pre {
 
     span {
       display: block;
-      font-size: 11px;
+      font-size: 20px;
       color: #97a3b9;
     }
   }
 
   .media-right {
-    font-size: 11px;
+    font-size: 20px;
     color: #97a3b9;
   }
 }

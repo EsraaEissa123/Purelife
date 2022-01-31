@@ -118,7 +118,7 @@
     border: 2px solid #FFF;
     text-transform: uppercase;
     font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial";
-    font-size: 11px;
+    font-size: 20px;
     padding: 4px 8px;
     font-weight: bold;
     color: #FFF;
@@ -280,7 +280,7 @@
             .dropify-wrapper.touch-fallback .dropify-preview .dropify-infos .dropify-infos-inner p.dropify-infos-message {
               margin-top: 0;
               padding-top: 0;
-              font-size: 11px;
+              font-size: 20px;
               position: relative;
               opacity: 1; }
               .dropify-wrapper.touch-fallback .dropify-preview .dropify-infos .dropify-infos-inner p.dropify-infos-message::before {

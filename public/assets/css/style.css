@@ -2325,7 +2325,7 @@ a.badge-dark.focus {
   padding: 0; }
 
 .breadcrumb-style1 .breadcrumb-item, .breadcrumb-style2 .breadcrumb-item, .breadcrumb-style3 .breadcrumb-item {
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   letter-spacing: .5px;
@@ -5708,7 +5708,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
         line-height: .9; }
     .main-nav-column .nav-link span {
       font-weight: 400;
-      font-size: 11px;
+      font-size: 20px;
       color: #949eb7;
       margin-left: auto; }
     .main-nav-column .nav-link:hover, .main-nav-column .nav-link:focus, .main-nav-column .nav-link:hover i:not([class*=' tx-']), .main-nav-column .nav-link:focus i:not([class*=' tx-']) {
@@ -5890,7 +5890,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
   right: 25px;
   top: 18px;
   margin-left: auto;
-  font-size: 11px; }
+  font-size: 20px; }
 
 .nav-wrapper.crypto .label {
   font-weight: 500; }
@@ -6351,7 +6351,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
 .progress-bar {
   border-radius: 0;
   height: 10px;
-  font-size: 11px; }
+  font-size: 20px; }
 
 .progress-bar-xs {
   height: 5px; }
@@ -6400,7 +6400,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
   .table thead th, .table thead td {
     color: #37374e;
     font-weight: 700;
-    font-size: 11px;
+    font-size: 20px;
     letter-spacing: .5px;
     text-transform: uppercase;
     border-bottom-width: 1px;
@@ -8381,7 +8381,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
     .main-navbar .nav-link.with-sub::after {
       content: '\f3d0';
       font-family: 'Ionicons';
-      font-size: 11px;
+      font-size: 20px;
       font-weight: 400;
       display: inline-block;
       position: relative;
@@ -8437,7 +8437,7 @@ textarea.form-control.is-invalid, textarea.form-control.parsley-error {
       .main-navbar .nav-sub-link.with-sub::after {
         content: '\f3d0';
         font-family: 'Ionicons';
-        font-size: 11px;
+        font-size: 20px;
         font-weight: 400;
         display: inline-block;
         position: relative;
@@ -9786,7 +9786,7 @@ a.tag-addon {
     line-height: 10px;
     padding-top: 11px; }
   .coming-events .icon .month {
-    font-size: 11px; }
+    font-size: 20px; }
 
 .coming-events .pb-3 {
   padding-bottom: 0.8rem !important; }
@@ -10210,7 +10210,7 @@ body {
   .main-table-reference > thead > tr > th, .main-table-reference > thead > tr > td {
     background-color: #ecf0fa;
     color: #737f9e;
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -10376,7 +10376,7 @@ body {
     .main-home-content p:last-of-type .btn, .main-home-content p:last-of-type .sp-container button {
       flex: 1;
       text-transform: uppercase;
-      font-size: 11px;
+      font-size: 20px;
       font-weight: 500;
       min-height: inherit;
       letter-spacing: 1px;
@@ -10409,7 +10409,7 @@ body {
 .sp-container .main-home-content p:last-of-type button {
   flex: 1;
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   min-height: inherit;
   letter-spacing: 1px;
@@ -10935,7 +10935,7 @@ body {
   margin-left: 10px; }
 
 .main-message-list a .time {
-  font-size: 11px;
+  font-size: 20px;
   color: #8d8db3;
   font-weight: 400; }
 
@@ -11526,11 +11526,11 @@ body {
     .crypto .card-footer .nav-link span:first-child {
       color: #949eb7;
       font-weight: 700;
-      font-size: 11px; }
+      font-size: 20px; }
     .crypto .card-footer .nav-link span:last-child {
       color: #031b4e;
       font-weight: 500;
-      font-size: 11px;
+      font-size: 20px;
       font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
   .crypto .card-footer .nav-link + .nav-link {
     border-left: 1px solid #e3e8f7; }
@@ -12650,11 +12650,11 @@ pre {
       text-shadow: 1px 1px rgba(255, 255, 255, 0.75);
       color: #031b4e;
       font-weight: 700;
-      font-size: 11px; }
+      font-size: 20px; }
     .card-dashboard-one .card-body .flot-chart .flot-x-axis > div {
       color: #97a3b9;
       font-weight: 500;
-      font-size: 11px; }
+      font-size: 20px; }
 
 .card-dashboard-one .card-body-top {
   display: flex;
@@ -12782,7 +12782,7 @@ pre {
       text-transform: uppercase;
       color: #1c273c; }
     .card-dashboard-three .card-header > small {
-      font-size: 11px;
+      font-size: 20px;
       display: none;
       color: #7987a1; }
   .card-dashboard-three .card-body {
@@ -13077,7 +13077,7 @@ pre {
       margin-bottom: 0;
       display: block;
       line-height: 1;
-      font-size: 11px;
+      font-size: 20px;
       color: #97a3b9; }
     .card-dashboard-seven .card-header .date {
       font-weight: 500;
@@ -13213,7 +13213,7 @@ pre {
   .card-dashboard-six .chart-legend > div {
     display: flex;
     align-items: center;
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 500; }
     .card-dashboard-six .chart-legend > div + div {
       margin-top: 2px; }
@@ -13552,7 +13552,7 @@ pre {
     align-items: baseline; }
     .card-dashboard-eleven .card-footer h6 span {
       margin-left: 5px;
-      font-size: 11px;
+      font-size: 20px;
       font-weight: 500;
       display: block;
       padding: 4px 6px;
@@ -13791,7 +13791,7 @@ pre {
         font-weight: 500;
         color: #031b4e; }
     .card-dashboard-twelve .sales-overview p {
-      font-size: 11px;
+      font-size: 20px;
       margin-bottom: 0;
       color: #97a3b9; }
   .card-dashboard-twelve .card-body {
@@ -13836,7 +13836,7 @@ pre {
 
 @media (min-width: 576px) {
   .card-dashboard-twelve .sales-overview .media-body > span {
-    font-size: 11px; } }
+    font-size: 20px; } }
 
 @media (min-width: 576px) {
   .card-dashboard-twelve .card-body {
@@ -14013,7 +14013,7 @@ pre {
     .card-dashboard-events .list-group-item p strong {
       font-weight: 500; }
   .card-dashboard-events .list-group-item small {
-    font-size: 11px; }
+    font-size: 20px; }
     .card-dashboard-events .list-group-item small span {
       font-weight: 700;
       text-transform: uppercase; }
@@ -14046,7 +14046,7 @@ pre {
   margin-left: 10px;
   color: #7987a1;
   font-weight: 500;
-  font-size: 11px; }
+  font-size: 20px; }
   .card-dashboard-events .event-user a:last-child:hover, .card-dashboard-events .event-user a:last-child:focus {
     color: #596882; }
 
@@ -14099,7 +14099,7 @@ pre {
   .card-dashboard-fourteen .card-body .progress {
     margin-bottom: 2px; }
   .card-dashboard-fourteen .card-body small {
-    font-size: 11px;
+    font-size: 20px;
     color: #97a3b9; }
 
 .card-dashboard-fourteen .sparkline-wrapper canvas {
@@ -14121,7 +14121,7 @@ pre {
     display: block;
     margin-bottom: 0;
     color: #97a3b9;
-    font-size: 11px; }
+    font-size: 20px; }
 
 @media (min-width: 576px) {
   .card-dashboard-fourteen .card-footer label {
@@ -14419,9 +14419,9 @@ pre {
 
 @media (min-width: 576px) {
   .card-dashboard-balance .main-content-label, .card-dashboard-balance .card-table-two .card-title {
-    font-size: 11px; }
+    font-size: 20px; }
   .card-table-two .card-dashboard-balance .card-title, .card-dashboard-balance .card-dashboard-eight .card-title, .card-dashboard-eight .card-dashboard-balance .card-title {
-    font-size: 11px; } }
+    font-size: 20px; } }
 
 .card-dashboard-balance .balance-amount {
   color: #1c273c;
@@ -14808,7 +14808,7 @@ pre {
         display: none; }
       .card-minimal-two .card-header-right .nav-link span:last-child {
         text-transform: uppercase;
-        font-size: 11px;
+        font-size: 20px;
         font-weight: 500; }
       .card-minimal-two .card-header-right .nav-link:hover, .card-minimal-two .card-header-right .nav-link:focus {
         background-color: #e3e7ed; }
@@ -14938,7 +14938,7 @@ pre {
   margin-bottom: 2px;
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   letter-spacing: .5px;
   color: #7987a1; }
 
@@ -15180,11 +15180,11 @@ pre {
         .card-minimal-four .card-footer .nav-link span:first-child {
           color: #97a3b9;
           font-weight: 700;
-          font-size: 11px; }
+          font-size: 20px; }
         .card-minimal-four .card-footer .nav-link span:last-child {
           color: #031b4e;
           font-weight: 500;
-          font-size: 11px;
+          font-size: 20px;
           font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
       .card-minimal-four .card-footer .nav-link + .nav-link {
         border-left: 1px solid #e2e8f5; }
@@ -15373,7 +15373,7 @@ pre {
       font-family: "Archivo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
       color: #1c273c; }
     .card-dashboard-seventeen .card-body span {
-      font-size: 11px; }
+      font-size: 20px; }
   .card-dashboard-seventeen .card-title {
     line-height: 1.3; }
   .card-dashboard-seventeen.bg-primary-dark {
@@ -15500,14 +15500,14 @@ pre {
     font-size: 14px; } }
 
 .card-dashboard-nineteen .card-header p {
-  font-size: 11px;
+  font-size: 20px;
   color: #7987a1;
   margin-bottom: 0; }
 
 .card-dashboard-nineteen .card-header .btn, .card-dashboard-nineteen .card-header .sp-container button {
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   letter-spacing: .5px;
   padding: 5px 20px;
   min-height: inherit;
@@ -15520,7 +15520,7 @@ pre {
 .sp-container .card-dashboard-nineteen .card-header button {
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   letter-spacing: .5px;
   padding: 5px 20px;
   min-height: inherit;
@@ -15648,7 +15648,7 @@ pre {
   justify-content: space-between; }
   .card-dashboard-twenty .expansion-label span {
     font-weight: 400;
-    font-size: 11px;
+    font-size: 20px;
     color: #97a3b9; }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
@@ -16040,7 +16040,7 @@ pre {
       display: block; }
     .card-dashboard-twentytwo .media-body > small {
       display: block;
-      font-size: 11px;
+      font-size: 20px;
       color: #97a3b9; }
       .card-dashboard-twentytwo .media-body > small strong {
         font-weight: 500; }
@@ -16158,7 +16158,7 @@ pre {
       margin-bottom: 0;
       display: flex;
       align-items: center;
-      font-size: 11px; }
+      font-size: 20px; }
       .card-dashboard-audience-metrics .card-body label span {
         display: inline-block;
         width: 9px;
@@ -16227,7 +16227,7 @@ pre {
     display: block;
     margin-bottom: 0;
     color: #7987a1;
-    font-size: 11px; }
+    font-size: 20px; }
   .card-dashboard-twentyfour .card-body-top > div + div {
     margin-left: 30px; }
 
@@ -16290,7 +16290,7 @@ pre {
 .card-dashboard-twentyfive .card-label {
   display: block;
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   letter-spacing: .5px;
   margin-bottom: 2px;
@@ -16447,7 +16447,7 @@ pre {
   .main-star-group span:last-child {
     display: block;
     font-weight: 500;
-    font-size: 11px;
+    font-size: 20px;
     margin-left: 5px;
     color: #7987a1; }
 
@@ -16482,11 +16482,11 @@ pre {
     color: #1c273c; }
   .main-media-list-activity .media-body span {
     display: block;
-    font-size: 11px;
+    font-size: 20px;
     color: #97a3b9; }
 
 .main-media-list-activity .media-right {
-  font-size: 11px;
+  font-size: 20px;
   color: #97a3b9; }
 
 /*-----IE issues-----*/
@@ -17564,7 +17564,7 @@ pre {
 
 @media (max-width: 380px) {
   .main-footer .container-fluid {
-    font-size: 11px; } }
+    font-size: 20px; } }
 
 .main-footer-demo {
   background-color: #0c025b;
@@ -18015,7 +18015,7 @@ pre {
   .main-header-right .btn-buy {
     text-transform: uppercase;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 500;
     background-color: #760000;
     color: #fff;
@@ -18185,7 +18185,7 @@ pre {
     font-weight: 500; }
   .main-notification-list .media-body span {
     display: block;
-    font-size: 11px;
+    font-size: 20px;
     color: #949eb7; }
 
 .main-profile-menu > .main-img-user {
@@ -19853,7 +19853,7 @@ object, embed, video {
 
 .mega-menubg.hor-mega-menu h3 {
   color: #2c364c;
-  font-size: 11px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: .5px;
@@ -20088,7 +20088,7 @@ object, embed, video {
       .main-iconbar-body .nav-link.with-sub::after {
         content: '\f3d0';
         font-family: 'Ionicons';
-        font-size: 11px;
+        font-size: 20px;
         font-weight: 400;
         display: inline-block;
         position: relative;
@@ -20391,7 +20391,7 @@ object, embed, video {
       .main-content-choose-demo .card figcaption .btn, .main-content-choose-demo .card figcaption .sp-container button {
         text-transform: uppercase;
         letter-spacing: 1.5px;
-        font-size: 11px;
+        font-size: 20px;
         font-weight: 500;
         min-height: inherit;
         padding: 10px 20px;
@@ -20411,7 +20411,7 @@ object, embed, video {
 
 @media (min-width: 768px) {
   .main-content-choose-demo .title-label {
-    font-size: 11px; } }
+    font-size: 20px; } }
 
 @media (min-width: 768px) {
   .main-content-choose-demo .title {
@@ -20453,7 +20453,7 @@ object, embed, video {
 .sp-container .main-content-choose-demo .card figcaption button {
   text-transform: uppercase;
   letter-spacing: 1.5px;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 500;
   min-height: inherit;
   padding: 10px 20px;
@@ -20700,7 +20700,7 @@ object, embed, video {
   .main-traffic-detail-item > div:first-child > span:first-child {
     color: #737f9e; }
   .main-traffic-detail-item > div:first-child > span:last-child {
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 700;
     color: #242f48; }
     .main-traffic-detail-item > div:first-child > span:last-child span {
@@ -21810,7 +21810,7 @@ table.dataTable {
     position: relative; }
   table.dataTable thead .sorting_asc::after, table.dataTable thead .sorting_desc::after {
     font-family: 'Ionicons';
-    font-size: 11px;
+    font-size: 20px;
     position: absolute;
     line-height: 0;
     top: 50%;
@@ -21824,7 +21824,7 @@ table.dataTable {
     position: relative; }
     table.dataTable thead .sorting::before, table.dataTable thead .sorting::after {
       font-family: 'Ionicons';
-      font-size: 11px;
+      font-size: 20px;
       position: absolute;
       line-height: 0;
       right: 10px; }
@@ -22150,7 +22150,7 @@ table.dataTable tfoot th, table.dataTable tfoot td {
     text-transform: uppercase;
     color: #4d5875;
     font-weight: 700;
-    font-size: 11px; }
+    font-size: 20px; }
 
 /* jQuery Simple Datetimepicker */
 .main-datetimepicker {
@@ -22207,7 +22207,7 @@ table.dataTable tfoot th, table.dataTable tfoot td {
         width: 100%;
         height: 100%; }
       .main-datetimepicker > .datepicker_inner_container > .datepicker_calendar th {
-        font-size: 11px;
+        font-size: 20px;
         text-transform: uppercase;
         color: #242f48;
         font-weight: 700;
@@ -23457,7 +23457,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     .card--events .list-group-item p strong {
       font-weight: 500; }
   .card--events .list-group-item small {
-    font-size: 11px; }
+    font-size: 20px; }
     .card--events .list-group-item small span {
       font-weight: 700;
       text-transform: uppercase; }
@@ -23485,7 +23485,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     margin-left: 10px;
     color: #a5a0b1;
     font-weight: 500;
-    font-size: 11px; }
+    font-size: 20px; }
     .card--events .event-user a:last-child:hover, .card--events .event-user a:last-child:focus {
       color: #37326d; }
 
@@ -23606,7 +23606,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     .main-datepicker .ui-datepicker .ui-datepicker-calendar td span, .main-datepicker .ui-datepicker .ui-datepicker-calendar td a {
       padding: 4px 5px;
       font-family: Verdana, sans-serif;
-      font-size: 11px;
+      font-size: 20px;
       color: #4d5875; }
   .main-datepicker .ui-datepicker .ui-datepicker-calendar .ui-datepicker-today a {
     background-color: #760000;
@@ -23703,7 +23703,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
   .main-calendar .fc-icon-right-single-arrow::after {
     content: '\f3d1'; }
   .main-calendar .fc-head-container .fc-day-header {
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
     padding: 14px 0;
@@ -23770,7 +23770,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     padding: 0; }
   .main-calendar .fc-view.fc-listMonth-view .fc-list-heading-main, .main-calendar .fc-view.fc-listWeek-view .fc-list-heading-main {
     display: block;
-    font-size: 11px;
+    font-size: 15px;
     text-transform: uppercase;
     color: #737f9e;
     font-weight: 600;
@@ -23844,7 +23844,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
         color: #fff;
         border-radius: 1px; }
   .main-calendar .fc-axis {
-    font-size: 11px; }
+    font-size: 20px; }
   .main-calendar .fc-event {
     border-width: 0;
     border-top-width: 5px;
@@ -23873,7 +23873,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
   .main-calendar .fc-agendaWeek-view .fc-time-grid-event > div {
     display: none; }
     .main-calendar .fc-agendaWeek-view .fc-time-grid-event > div .fc-time {
-      font-size: 11px; }
+      font-size: 20px; }
     .main-calendar .fc-agendaWeek-view .fc-time-grid-event > div .fc-title {
       font-size: 20px; }
     .main-calendar .fc-agendaWeek-view .fc-time-grid-event > div .fc-desc {
@@ -23915,7 +23915,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     height: 32px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 11px; }
+    font-size: 20px; }
   .main-calendar .fc-header-toolbar button.fc-month-button, .main-calendar .fc-header-toolbar button.fc-agendaWeek-button, .main-calendar .fc-header-toolbar button.fc-agendaDay-button, .main-calendar .fc-header-toolbar button.fc-listWeek-button, .main-calendar .fc-header-toolbar button.fc-listMonth-button {
     text-indent: -9999px;
     width: 32px;
@@ -23968,7 +23968,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
 
 @media (min-width: 576px) {
   .main-calendar .fc-view.fc-agenda-view .fc-day-header > a > span:first-child {
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 600; } }
 
 @media (min-width: 576px) {
@@ -24279,7 +24279,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     align-items: center;
     float: none; }
   .main-chat-contacts small {
-    font-size: 11px;
+    font-size: 20px;
     width: 36px;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -24396,7 +24396,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     color: #242f48; }
   .main-chat-list .media-contact-name span:last-child {
     display: block;
-    font-size: 11px;
+    font-size: 20px;
     color: #949eb7; }
 
 @media (min-width: 992px) {
@@ -24477,7 +24477,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     flex-direction: column;
     align-items: flex-start; }
     .main-chat-body .media-body > div:last-child {
-      font-size: 11px;
+      font-size: 20px;
       color: #737f9e;
       display: flex;
       align-items: center; }
@@ -25596,7 +25596,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
       align-items: center; }
     .main-invoice-list .media-body p {
       margin-bottom: 0;
-      font-size: 11px;
+      font-size: 20px;
       font-family: Arial, sans-serif;
       color: #364261; }
       .main-invoice-list .media-body p span {
@@ -25681,7 +25681,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     color: #4d5875; }
 
 .table-invoice thead > tr > th, .table-invoice thead > tr > td {
-  font-size: 11px;
+  font-size: 20px;
   font-weight: 700;
   color: #737f9e; }
 
@@ -25719,7 +25719,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
   margin-bottom: 20px;
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 20px;
   padding: 0 20px;
   letter-spacing: 2px;
   display: flex;
@@ -26036,7 +26036,7 @@ input.parsley-error:focus, textarea.parsley-error:focus, input.parsley-success:f
     top: 8px; } }
 
 .main-mail-date {
-  font-size: 11px;
+  font-size: 20px;
   position: absolute;
   top: 12px;
   right: 15px;
@@ -46440,7 +46440,7 @@ button.bg-dark:hover, button.bg-dark:focus {
   font-size: 10px !important; }
 
 .tx-11 {
-  font-size: 11px; }
+  font-size: 20px; }
 
 .tx-11-f {
   font-size: 11px !important; }
@@ -46870,7 +46870,7 @@ button.bg-dark:hover, button.bg-dark:focus {
   .tx-xs-10-f {
     font-size: 10px !important; }
   .tx-xs-11 {
-    font-size: 11px; }
+    font-size: 20px; }
   .tx-xs-11-f {
     font-size: 11px !important; }
   .tx-xs-12 {
@@ -47216,7 +47216,7 @@ button.bg-dark:hover, button.bg-dark:focus {
   .tx-sm-10-f {
     font-size: 10px !important; }
   .tx-sm-11 {
-    font-size: 11px; }
+    font-size: 20px; }
   .tx-sm-11-f {
     font-size: 11px !important; }
   .tx-sm-12 {
@@ -47562,7 +47562,7 @@ button.bg-dark:hover, button.bg-dark:focus {
   .tx-md-10-f {
     font-size: 10px !important; }
   .tx-md-11 {
-    font-size: 11px; }
+    font-size: 20px; }
   .tx-md-11-f {
     font-size: 11px !important; }
   .tx-md-12 {
@@ -47908,7 +47908,7 @@ button.bg-dark:hover, button.bg-dark:focus {
   .tx-lg-10-f {
     font-size: 10px !important; }
   .tx-lg-11 {
-    font-size: 11px; }
+    font-size: 20px; }
   .tx-lg-11-f {
     font-size: 11px !important; }
   .tx-lg-12 {
@@ -48254,7 +48254,7 @@ button.bg-dark:hover, button.bg-dark:focus {
   .tx-xl-10-f {
     font-size: 10px !important; }
   .tx-xl-11 {
-    font-size: 11px; }
+    font-size: 20px; }
   .tx-xl-11-f {
     font-size: 11px !important; }
   .tx-xl-12 {
