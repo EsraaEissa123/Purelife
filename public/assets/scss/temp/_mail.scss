@@ -60,7 +60,7 @@
 
 @media (min-width: 992px) {
   .main-mail-menu .nav-link {
-    font-size: 13px;
+    font-size: 20px;
   }
 }
 
@@ -73,7 +73,7 @@
 
   > div {
     &:first-child p {
-      font-size: 13px;
+      font-size: 20px;
       margin-bottom: 0;
     }
 
@@ -404,7 +404,7 @@
 }
 
 .main-mail-from {
-  font-size: 13px;
+      font-size: 20px;
 }
 
 @media (min-width: 576px) {
@@ -429,7 +429,7 @@
   }
 
   span {
-    font-size: 13px;
+    font-size: 20px;
     color: $gray-600;
     display: none;
   }
@@ -479,7 +479,7 @@
 @media (min-width: 992px) {
   .main-mail-date {
     position: absolute;
-    font-size: 13px;
+    font-size: 20px;
     top: 8px;
   }
 }

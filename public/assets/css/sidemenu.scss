@@ -762,7 +762,7 @@ slide is-expanded side-menu__item {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	font-size: 13px;
+	font-size: 20px;
 	height: 32px;
 	padding: 0 0 0 56px;
 	font-weight: 400;
@@ -1042,7 +1042,7 @@ slide is-expanded side-menu__item {
   margin-bottom: 0;
   text-align: right;
   font-weight: 500;
-  font-size: 13px;
+      font-size: 20px;
   text-transform: capitalize;
   padding: 0;
   text-align: left;
@@ -1398,7 +1398,7 @@ slide is-expanded side-menu__item {
 
 .app-sidebar__user .user-info .text-muted {
     color: #8991a5 !important;
-    font-size: 13px;
+    font-size: 20px !important;
 }
 .app-sidebar .slide-menu a.active:before{
 	color: $primary;

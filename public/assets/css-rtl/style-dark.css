@@ -780,7 +780,7 @@ body.dark-theme {
   border: 1px solid rgba(226, 232, 245, 0.1); }
   .dark-theme .img-thumbnail p {
     color: rgba(255, 255, 255, 0.5);
-    font-size: 13px; }
+    font-size: 20px; }
 
 .dark-theme .bd {
   border-color: rgba(226, 232, 245, 0.1); }
@@ -856,7 +856,7 @@ body.dark-theme {
   background-color: #141b2d; }
 
 .dark-theme .media-body {
-  font-size: 13px;
+      font-size: 20px;
   color: rgba(255, 255, 255, 0.3); }
 
 .dark-theme .bg-gray-100 {

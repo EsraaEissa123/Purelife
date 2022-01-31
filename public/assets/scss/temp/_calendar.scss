@@ -408,7 +408,7 @@
 }
 
 .main-nav-calendar-event .nav-link {
-  font-size: 13px;
+      font-size: 20px;
   position: relative;
 
   i {
@@ -482,7 +482,7 @@
       display: flex;
       align-items: center;
       color: $gray-900;
-      font-size: 13px;
+      font-size: 20px;
       text-transform: capitalize;
       outline: none;
       text-shadow: none;
@@ -735,7 +735,7 @@
 
     &.fc-listMonth-view .fc-list-item-time, &.fc-listWeek-view .fc-list-item-time {
       padding: 12px 15px 2px;
-      font-size: 13px;
+      font-size: 20px;
       text-transform: capitalize;
       width: 100%;
     }
@@ -753,7 +753,7 @@
     }
 
     &.fc-listMonth-view .fc-list-item-title .fc-desc, &.fc-listWeek-view .fc-list-item-title .fc-desc {
-      font-size: 13px;
+      font-size: 20px;
       line-height: 1.375;
       display: block;
     }
@@ -814,7 +814,7 @@
     }
 
     .fc-desc {
-      font-size: 13px;
+      font-size: 20px;
       line-height: 1.3;
       color: rgba(28, 39, 60, 0.8);
     }
@@ -828,7 +828,7 @@
     }
 
     .fc-title {
-      font-size: 13px;
+      font-size: 20px;
     }
 
     .fc-desc {
@@ -1103,7 +1103,7 @@
 
 @media (min-width: 576px) {
   .main-calendar .fc-axis {
-    font-size: 13px;
+    font-size: 20px;
   }
 }
 
@@ -1164,7 +1164,7 @@
     background-color: $gray-100;
     padding: 10px 5px;
     color: $gray-900;
-    font-size: 13px;
+    font-size: 20px;
     font-weight: 600;
 
     > i {

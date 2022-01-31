@@ -7,7 +7,7 @@
 .ql-container {
   box-sizing: border-box;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 13px;
+      font-size: 20px;
   height: 100%;
   margin: 0px;
   position: relative;
@@ -890,7 +890,7 @@
 .ql-snow .ql-tooltip input[type=text] {
   display: none;
   border: 1px solid #ccc;
-  font-size: 13px;
+      font-size: 20px;
   height: 26px;
   margin: 0px;
   padding: 3px 5px;

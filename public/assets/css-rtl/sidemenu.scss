@@ -722,7 +722,7 @@ slide is-expanded side-menu__item {
 }
 .app-sidebar .side-item.side-item-category {
     color: #2c364c;
-    font-size: 20px;
+    font-size: 20px !important; 
     text-transform: uppercase;
     font-weight: 900;
     letter-spacing: .5px;
@@ -761,7 +761,7 @@ slide is-expanded side-menu__item {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	font-size: 13px;
+	font-size: 20px !important;
 	height: 32px;
 	padding: 0 56px 0 0;
 	font-weight: 400;
@@ -1041,7 +1041,7 @@ slide is-expanded side-menu__item {
   margin-bottom: 0;
   text-align: right;
   font-weight: 500;
-  font-size: 13px;
+      font-size: 20px;
   text-transform: capitalize;
   padding: 0;
   text-align: left;
