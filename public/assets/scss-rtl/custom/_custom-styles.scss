@@ -152,7 +152,7 @@ a.close.disabled {
 .spinner-border {
   display: inline-block;
   width: 2rem;
-  height: 2rem;
+  height: 5rem;
   vertical-align: text-bottom;
   border: 0.25em solid currentColor;
   border-right-color: transparent;
@@ -179,7 +179,7 @@ a.close.disabled {
 .spinner-grow {
   display: inline-block;
   width: 2rem;
-  height: 2rem;
+  height: 5rem;
   vertical-align: text-bottom;
   background-color: currentColor;
   border-radius: 50%;
@@ -3006,7 +3006,7 @@ pre {
     }
 
     .logo-1 {
-      height: 2rem;
+      height: 5rem;
     }
   }
 }
@@ -3145,8 +3145,8 @@ pre {
 
 .chip {
   display: inline-block;
-  height: 2rem;
-  line-height: 2rem;
+  height: 5rem;
+  line-height: 5rem;
   font-size: 0.875rem;
   font-weight: 500;
   color: #6e7687;
@@ -3158,7 +3158,7 @@ pre {
   .avatar {
     float: right;
     margin: 0 -.75rem 0 .5rem;
-    height: 2rem;
+    height: 5rem;
     width: 2rem;
     border-radius: 50%;
   }

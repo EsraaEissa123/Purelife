@@ -363,7 +363,7 @@ body.dark-theme {
   .dark-theme .responsive-logo .dark-logo-2, .dark-theme .responsive-logo .logo-2 {
     dispLay: none; }
   .dark-theme .responsive-logo .dark-logo-1 {
-    height: 2rem; } }
+    height: 5rem; } }
 
 @media (max-width: 574px) {
   .dark-theme .responsive-logo .logo-2 {
@@ -1370,7 +1370,7 @@ body.dark-theme {
     margin-right: 1.4rem; } }
 
 .desktop-dark {
-  height: 2rem; }
+  height: 5rem; }
 
 @media (max-width: 567px) {
   .dark-theme .horizontalMenucontainer .desktop-dark, .dark-theme .desktop-logo-1 {

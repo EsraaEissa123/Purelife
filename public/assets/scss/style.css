@@ -14405,7 +14405,7 @@ a.tag-addon:hover {
   top: .2rem;
   content: "";
   border-radius: .2rem;
-  height: 2rem;
+  height: 5rem;
 }
 
 .latest-tasks .label {
@@ -14902,7 +14902,7 @@ a.close.disabled {
 .spinner-border {
   display: inline-block;
   width: 2rem;
-  height: 2rem;
+  height: 5rem;
   vertical-align: text-bottom;
   border: 0.25em solid currentColor;
   border-right-color: transparent;
@@ -14940,7 +14940,7 @@ a.close.disabled {
 .spinner-grow {
   display: inline-block;
   width: 2rem;
-  height: 2rem;
+  height: 5rem;
   vertical-align: text-bottom;
   background-color: currentColor;
   border-radius: 50%;
@@ -17802,7 +17802,7 @@ pre {
     dispLay: none;
   }
   .responsive-logo .logo-1 {
-    height: 2rem;
+    height: 5rem;
   }
 }
 
@@ -17946,8 +17946,8 @@ pre {
 
 .chip {
   display: inline-block;
-  height: 2rem;
-  line-height: 2rem;
+  height: 5rem;
+  line-height: 5rem;
   font-size: 0.875rem;
   font-weight: 500;
   color: #6e7687;
@@ -17961,7 +17961,7 @@ pre {
 .chip .avatar {
   float: left;
   margin: 0 .5rem 0 -.75rem;
-  height: 2rem;
+  height: 5rem;
   width: 2rem;
   border-radius: 50%;
 }
@@ -26051,7 +26051,7 @@ pre {
       -ms-flex-align: center;
           align-items: center;
   position: relative;
-  height: 2rem;
+  height: 5rem;
   margin: 0 auto;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -28894,7 +28894,7 @@ object, embed, video {
 }
 
 .desktop-logo {
-  height: 2rem;
+  height: 5rem;
   text-align: center;
   margin: 0 auto;
   -webkit-box-pack: center;

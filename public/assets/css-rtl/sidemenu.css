@@ -809,7 +809,7 @@ slide is-expanded side-menu__item {
     border: 1px solid #ddd; } }
 
 .sidenav-toggled .app-sidebar__user .avatar-md {
-  line-height: 2rem;
+  line-height: 5rem;
   font-size: 1rem; }
 
 .app-sidebar .mCS-minimal.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
